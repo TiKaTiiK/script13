@@ -124,3 +124,16 @@
 //     console.log(false);
 // }    
 
+// 11.
+// function maksimaluri (arrayNumber) {
+//     let maxValue = 0;
+//     for(let item of arrayNumber) {
+//         if (item > maxValue) {
+//             maxValue = item;
+//         }
+//     }
+//     return maxValue;
+// }
+
+// console.log(maksimaluri ([5,103,120,10,250,30]));
+
